@@ -1,4 +1,4 @@
-/*Sonam Sinah
+/*
 Project Bank Management System
 sinha_bank_data.sql*/
 
